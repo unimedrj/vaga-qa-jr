@@ -6,7 +6,7 @@ Esse teste visa validar o conhecimento em automação de testes funcionais E2E c
 
 ### Detalhes do teste:
 
-Você deverá avaliar nosso guia médico no site em https://www.unimed.coop.br/site/web/riodejaneiro/guia-medico#/ e partindo da análise dessa funcionalidade funcionalidade, planejar e implementar testes de funcionais automatizados que validem o funcionamento dos casos de uso identificados a sua livre escolha.
+Você deverá avaliar nosso guia médico no site em https://www.unimed.coop.br/site/web/riodejaneiro/guia-medico#/ e partindo da análise dessa funcionalidade, planejar e implementar testes de funcionais automatizados que validem o funcionamento dos casos de uso identificados a sua livre escolha.
 
 A entrega deverá ser feita em um repositório em sua conta do github com toda a documentação e instruções de execução da suite de testes construída.
 
